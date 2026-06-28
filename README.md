@@ -1,5 +1,10 @@
 # JWT-Token-Analyzer
 
+📘 JWT Token Analyzer 
+
+It is an advanced, automated cryptographic security assessment tool specifically designed to dissect, analyse, and identify critical misconfigurations and vulnerabilities in JSON Web Tokens (JWTs). JWTs are widely used for authentication and authorisation in modern web applications and APIs. However, developers often misconfigure them—leaving them vulnerable to forgery, bypass, and account takeover. This tool provides a comprehensive security audit of JWTs, exposing weaknesses that could compromise an entire application's authentication layer.
+
+
 🎯 Objective
 
 To automatically audit JSON Web Tokens (JWTs) for a comprehensive set of security weaknesses that could lead to unauthorised access, privilege escalation, or complete account compromise. Manual inspection of JWTs is cumbersome and error‑prone. This tool automates the analysis process by:
